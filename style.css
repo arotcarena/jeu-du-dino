@@ -1,0 +1,38 @@
+#title {
+    margin-top: 2%; 
+    margin-left: 2%;
+}
+
+#container {
+    margin-top: 30%; 
+    margin-bottom: 0%;
+    display: flex;
+}
+
+#floor {
+    margin: 0%;
+}
+
+#cactus {
+    align-self: flex-end;
+    position: absolute;
+    z-index: 2;
+}
+
+#dino {
+    position: absolute;
+    align-self: flex-end;
+    left: 10%;
+}
+
+#game-over {
+    margin-left: 100px;
+}
+
+#score {
+    margin-right: 50px;
+}
+
+#speed {
+    margin-left: 50px;
+}
